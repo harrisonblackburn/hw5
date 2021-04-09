@@ -74,7 +74,7 @@ body {
   .display-3 {
       background-color: #77dd77;
   }
-  .col-10 {
+  .col-8 {
       display: flex;
       justify-content: center;
       text-align: center;

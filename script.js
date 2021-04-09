@@ -81,8 +81,6 @@ $("#5btn").on("click", function(){
 // need a for loop to change time-slot BG color as day progresses 
 
 
-// need event listener for save button 
+ 
 
 
-
-// then, will store in local storage
